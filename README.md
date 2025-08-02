@@ -231,26 +231,8 @@ doge-indexer/
 └── examples/            # Integration examples
 ```
 
-## 9. Developer Resources 🛠️
 
-### Official Repositories
-- **Main Organization**: `https://github.com/DRC20-Universal-Protocol`
-- **Doge Indexer**: `https://github.com/DRC20-Universal-Protocol/doge-indexer`
-- **DOP Repository**: `https://github.com/DRC20-Universal-Protocol/DOPs`
-- **Tools & Libraries**: `https://github.com/DRC20-Universal-Protocol/tools`
-
-### APIs & Infrastructure
-- **BlackDoge Platform**: `https://blackdoge.co` (Genesis launch partner)
-- **Public Indexer API**: `https://api.drc20.org`
-- **Block Explorer**: `https://explorer.drc20.org`
-- **Token Registry**: `https://tokens.drc20.org`
-
-### Community
-- **Discord**: `https://discord.gg/drc20universal`
-- **Twitter**: `https://twitter.com/DRC20Universal`
-- **Telegram**: `https://t.me/DRC20Universal`
-
-## 10. Comparative Analysis
+## 9. Comparative Analysis
 
 | Feature | DRC-20 Universal | Legacy DRC-20 |
 |---------|------------------|---------------|
@@ -300,7 +282,7 @@ To ensure the most equitable and transparent launch of the DRC-20 Universal Prot
 ```
 
 **Token Details:**
-- **Ticker**: `WIFD` (WiFi Doge)
+- **Ticker**: `WIF` (WiF)
 - **Total Supply**: 100,000,000,000 tokens
 - **Mint Limit**: 1,000 tokens per mint
 - **Distribution**: 100% community minting (no pre-mine)
@@ -357,8 +339,5 @@ Once the genesis token distribution is complete, the DRC-20 Universal Protocol b
 5. **Submit DOPs**: Propose new features and improvements
 
 The future of Dogecoin tokens is Universal. Much innovation. Very protocol. Such community. **Wow.**
-
----
-
-*Built with 💛 by the Dogecoin community*  
+ 
 *To the moon! 🌙*
